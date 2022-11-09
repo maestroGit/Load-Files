@@ -1,0 +1,4 @@
+# You can ignore entire directories, just by including their paths and putting a / on the end:
+node_modules/
+# The easiest pattern is a literal file name
+.env
